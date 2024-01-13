@@ -1,12 +1,12 @@
 # Module 04 Challenge: Web APIs Quiz
-This week's challenge is a quiz about JavaScript fundamentals.  As a full-stack web developer, a coding assessment will probably be asked to take as part of an interview process.  This quiz will help me become familiar with these tests and give me the opportunity to apply the skills from this module.  I will be creating a time coding quiz with multiple-choice questions. It will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
+This week's challenge is a quiz using JavaScript fundamentals.  As a full-stack web developer, a coding assessment will probably be asked to take as part of an interview process so I am using this week's challenge to display my javascript skills.  This quiz will give me the opportunity to apply the skills from this module.  I will be creating a time coding quiz with multiple-choice questions. It will run in the browser, and will feature dynamically updated HTML and CSS powered by JavaScript code.
 
 ## User Story
-AS A coding boot camp student
+AS A Bridgerton Fan
 <br>
-I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
+I WANT to take a timed quiz on Bridgerton facts that stores high scores
 <br>
-SO THAT I can gauge my progress compared to my peers
+SO THAT I can see if I am really a super fan
 
 ## Acceptance Criteria
 GIVEN I am taking a code quiz
