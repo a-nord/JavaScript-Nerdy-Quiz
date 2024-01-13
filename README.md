@@ -10,11 +10,9 @@ SO THAT I can gauge my progress compared to my peers
 
 ## Acceptance Criteria
 GIVEN I am taking a code quiz
-
 * WHEN I click the start button
 <br>
 THEN a timer starts and I am presented with a question
-<br>
 
 * WHEN I answer a question
 <br>
